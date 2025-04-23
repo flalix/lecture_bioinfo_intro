@@ -3,7 +3,9 @@ Aula introdutória de como a matemática permeia os estudos atuais de biologia
 
 ## Lectures (pdf):
   - introdução à biologia celular
+    - bioinformatica_aula01_202504_v04_intro_biologia celular.pdf
   - introdução à bioinformática
+    - bioinformatica_aula02_202504_v04_bioinformática.pdf
 
 ## Python notebooks
 
