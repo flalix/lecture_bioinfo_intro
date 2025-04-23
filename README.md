@@ -1,4 +1,4 @@
-# lecture_math_bio
+# Bioinformática introdução:
   - Aula introdutória de como a matemática/bioinformática permeia os estudos atuais de biologia.
   - Aula prática usando python e processando sequências fastas.
 
