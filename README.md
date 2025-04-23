@@ -5,9 +5,7 @@ Aula introdutória de como a matemática permeia os estudos atuais de biologia
   - introdução à biologia celular
   - introdução à bioinformática
 
-<!--
-
-**Python notebooks:**
+## Python notebooks
 
 🙋‍♀️ São quatro aulas:
   - ex01_python.ipynb: como usar o Python
@@ -18,4 +16,4 @@ Aula introdutória de como a matemática permeia os estudos atuais de biologia
 👩‍💻 Todos os dados estão no [NCBI](https://www.ncbi.nlm.nih.gov/)
 🍿 As sequências podem ser obtidas em [Nucleotide](https://www.ncbi.nlm.nih.gov/nucleotide) ou [Protein](https://www.ncbi.nlm.nih.gov/protein)
 🧙 Lembre-se que estes são exercítios iniciais
--->
+
